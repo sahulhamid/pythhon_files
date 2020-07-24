@@ -2,11 +2,11 @@
 import random
 # creating a list of words
 
-list_of_words = ['python', 'swift', 'rudy', 'perl', 'sql', 'html','cprog','kotlin']
+list_of_words = ['python', 'swift', 'ruby', 'perl', 'sql', 'html','cprog','kotlin']
 
 # letting the computer to choose word
 word = random.choice(list_of_words)
-
+print(word)
 # Getting dashes in a list format
 guess_word = list('_'*len(word))
 
@@ -35,6 +35,17 @@ while turns > 0:
             print('You win the game')
             # if player guessed the correct word then stop iterating
             turns = 0
+    #else player guessed wrong word
+    else:
+        # printing wrong input
+        print('Wrong guess Dude')
+        print('Better Luck Next Time')
+        turns-=1
+        # Printing the remaining chances
+        print(turns, 'more Chances')
+        if turns == 0:
+            if join_guess_word!=word:
+                print('You Lose')
 
 
 
