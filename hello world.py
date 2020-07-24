@@ -17,4 +17,17 @@ join_guess_word = ''.join(guess_word)
 turns = 10
 
 # running a infinite loop(while loop) till 10 turns
+while turns > 0:
+    # Getting a letter from the player
+    guess_letter = input('Enter a character: ')
+    # Checking the character is in  word
+    if guess_letter in word:
+        # Finding the index of the guessing character
+        f = word.find(guess_letter)
+        # changing in list of guess_word
+        guess_word[f] = guess_letter
+        # joining the updated guess word
+        join_guess_word = guess_word
+        print(join_guess_word)
+        turns-=1
 
