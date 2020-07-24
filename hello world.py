@@ -7,7 +7,7 @@ list_of_words = ['python', 'swift', 'rudy', 'perl', 'sql', 'html','cprog','kotli
 # letting the computer to choose word
 word = random.choice(list_of_words)
 
-# Getting dashes in alist format
+# Getting dashes in a list format
 guess_word = list('_'*len(word))
 
 # joining the dashes by using the join method
@@ -27,7 +27,7 @@ while turns > 0:
         # changing in list of guess_word
         guess_word[f] = guess_letter
         # joining the updated guess word
-        join_guess_word = guess_word
+        join_guess_word = ''.join(guess_word)
         print(join_guess_word)
         turns-=1
         # checking for winning condition
