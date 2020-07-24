@@ -30,4 +30,11 @@ while turns > 0:
         join_guess_word = guess_word
         print(join_guess_word)
         turns-=1
+        # checking for winning condition
+        if join_guess_word == word:
+            print('You win the game')
+            # if player guessed the correct word then stop iterating
+            turns = 0
+
+
 
