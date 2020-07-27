@@ -11,5 +11,8 @@ def prime_or_not(num):
         if num % i ==0:
             print(num,'is not a Prime Number')
             break
-            # breaking the loop if it is divisible ny any number
-
+            # breaking the loop if it is divisible by any number
+    #  this for 'for loop'
+    # condition for Prime numbers
+    else:
+        print(num,'is a Prime Number')
