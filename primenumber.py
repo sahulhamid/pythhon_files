@@ -16,3 +16,6 @@ def prime_or_not(num):
     # condition for Prime numbers
     else:
         print(num,'is a Prime Number')
+
+# Calling the same function
+prime_or_not(num)
