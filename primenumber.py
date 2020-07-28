@@ -19,4 +19,3 @@ def prime_or_not(num):
 
 # Calling the same function
 prime_or_not(num)
-print('the end')
