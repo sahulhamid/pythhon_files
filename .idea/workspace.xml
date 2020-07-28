@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="" />
+    <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/find_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_max.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595976739190</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Calling the prime_or_not function">
+      <created>1595976835678</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1595976835678</updated>
+    </task>
+    <task id="LOCAL-00014" summary="creating an empty array">
+      <created>1595977009791</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1595977009791</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,13 +226,14 @@
     <MESSAGE value="codition for the non Prime numbers and using break" />
     <MESSAGE value="using for else" />
     <MESSAGE value="Calling the prime_or_not function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calling the prime_or_not function" />
+    <MESSAGE value="creating an empty array" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating an empty array" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1595976196848">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1595977006747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595976196848" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595977006747" />
     <state width="1345" height="200" key="GridCell.Tab.0.bottom" timestamp="1595827560306">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -237,9 +254,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595976019450" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1595827320507">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1595977016450">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595827320507" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595977016450" />
   </component>
 </project>
