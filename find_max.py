@@ -9,3 +9,10 @@ arr = array.array('i',[])
 len_arr = int(input("Enter the legthof array: "))
 
 #using a for loop getting inputs from array
+for i in range(len_arr):
+    # geting the numbers
+    n = int(input('Enter values: '))
+    arr.append(n)
+print(arr)
+
+# sorting the given input
