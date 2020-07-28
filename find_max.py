@@ -16,3 +16,11 @@ for i in range(len_arr):
 print(arr)
 
 # sorting the given input
+s = sorted(arr)
+
+# here we sorted the given array
+# printing the largest values
+
+# we can say max(s)
+
+print(s[-1])

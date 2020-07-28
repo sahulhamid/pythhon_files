@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.p">
+  <component name="RunManager" selected="Python.find_max">
     <configuration name="arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythhon_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.p" />
         <item itemvalue="Python.find_max" />
+        <item itemvalue="Python.p" />
         <item itemvalue="Python.primenumber" />
         <item itemvalue="Python.odd_or_even" />
         <item itemvalue="Python.arrays" />
