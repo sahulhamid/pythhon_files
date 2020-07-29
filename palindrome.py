@@ -5,5 +5,10 @@ word = input('Enter a word: ')
 
 # Definig a function
 def palindrome(word):
+    # Condition for Palindrome
+    if word == word[::-1]:
+        print(word ,'is Palindrome')
+    else:
+        print(word ,'is Not a palindrome')
 
 
