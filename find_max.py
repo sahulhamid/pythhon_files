@@ -22,4 +22,4 @@ s = sorted(arr)
 # printing the largest values
 
 # we can say max(s)
-
+print(s[-1])
