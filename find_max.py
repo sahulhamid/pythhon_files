@@ -23,4 +23,3 @@ s = sorted(arr)
 
 # we can say max(s)
 
-print(s[-1])
