@@ -3,4 +3,7 @@
 # Getting word from the user
 word = input('Enter a word: ')
 
+# Definig a function
+def palindrome(word):
+
 

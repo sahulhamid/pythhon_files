@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/find_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_max.py" afterDir="false" />
-    </list>
+    <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -277,7 +274,28 @@
       <option name="project" value="LOCAL" />
       <updated>1595978233683</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="printing the max values">
+      <created>1596044868012</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1596044868012</updated>
+    </task>
+    <task id="LOCAL-00019" summary="printing the max values">
+      <created>1596044957719</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1596044957719</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Getting word from the user">
+      <created>1596045147863</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1596045147863</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -296,13 +314,14 @@
     <MESSAGE value="using a loop" />
     <MESSAGE value="Sorting the given array" />
     <MESSAGE value="printing the max values" />
-    <option name="LAST_COMMIT_MESSAGE" value="printing the max values" />
+    <MESSAGE value="Getting word from the user" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting word from the user" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1595978231341">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596045144643">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595978231341" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596045144643" />
     <state width="1345" height="200" key="GridCell.Tab.0.bottom" timestamp="1595978409545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -323,9 +342,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595976019450" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1595978240832">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596045164186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595978240832" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596045164186" />
   </component>
 </project>
