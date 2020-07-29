@@ -12,3 +12,5 @@ def palindrome(word):
         print(word ,'is Not a palindrome')
 
 
+# Calling the Function
+palindrome(word)
