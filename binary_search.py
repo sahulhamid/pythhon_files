@@ -3,6 +3,9 @@
 #Creating an Empty list
 lis = []
 
+# position initially at -1
+pos = -1
+
 # Asking length of thr length of list
 len_lis = int(input('Enter the Length of List: '))
 
@@ -12,11 +15,11 @@ while i < len_lis:
     num = int(input('Enter values: '))
     lis.append(num)
     i+=1
-print(lis)
+
 
 #sorting ths given list
 list = sorted(lis)
-
+print(list)
 # asking the user to enter a number to find
 num = int(input('Enter a Number to Search: '))
 
@@ -32,12 +35,22 @@ def binary_search(list,num):
     while l <= u:
         mid = (l+u)//2
         if list[mid] == num:
+            # Getting the position
+            global pos
+            pos = mid
             return True
         else:
             if num > list[mid]:
-                l = mid
+                l = mid+1
             else:
-                u = mid
+                u = mid-1
+    return False
 
+# Calling the Function
 
+# Building Logic
+if binary_search(list,num):
+    print('Number Found at',pos+1)
+else:
+    print("Not Found")
 
