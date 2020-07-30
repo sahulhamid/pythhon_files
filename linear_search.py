@@ -15,4 +15,5 @@ for i in range(arr_len):
 # We can have our own list
 lis = [31,28,78,45,69]
 
+# Defining the linear search method
 
