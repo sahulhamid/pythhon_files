@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -396,11 +395,24 @@
       <option name="project" value="LOCAL" />
       <updated>1596080841975</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="creating a list">
+      <created>1596081765884</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1596081765884</updated>
+    </task>
+    <task id="LOCAL-00036" summary="user created the list">
+      <created>1596082059770</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1596082059770</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="creating an empty aray" />
     <MESSAGE value="Getting the lenght of the array" />
     <MESSAGE value="Inserting values into array" />
     <MESSAGE value="i have completed my code" />
@@ -424,29 +436,31 @@
     <MESSAGE value="Defining the linear search method" />
     <MESSAGE value="Restarting" />
     <MESSAGE value="Completed Linear Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Linear Search" />
+    <MESSAGE value="creating a list" />
+    <MESSAGE value="user created the list" />
+    <option name="LAST_COMMIT_MESSAGE" value="user created the list" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596080836640">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596082056018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596080836640" />
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1596080538743">
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596082056018" />
+    <state width="1345" height="104" key="GridCell.Tab.0.bottom" timestamp="1596082018492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596080538743" />
-    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1596080538743">
+    <state width="1345" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596082018492" />
+    <state width="1345" height="104" key="GridCell.Tab.0.center" timestamp="1596082018492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596080538743" />
-    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1596080538743">
+    <state width="1345" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596082018492" />
+    <state width="1345" height="104" key="GridCell.Tab.0.left" timestamp="1596082018492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596080538743" />
-    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1596080538743">
+    <state width="1345" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596082018492" />
+    <state width="1345" height="104" key="GridCell.Tab.0.right" timestamp="1596082018492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596080538743" />
+    <state width="1345" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596082018492" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1596080538743">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -467,9 +481,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596080113633" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596080845317">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596082068588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596080845317" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596082068588" />
   </component>
 </project>

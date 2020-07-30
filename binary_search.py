@@ -13,3 +13,8 @@ while i < len_lis:
     lis.append(num)
     i+=1
 print(lis)
+
+# asking the user to enter a number to find
+n = int(input('Enter a Number to Search: '))
+
+# Defining the Function of Binary Search
