@@ -13,3 +13,4 @@ def palindrome(word):
 
 
 # Calling the Function
+palindrome(word)
