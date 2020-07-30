@@ -10,8 +10,9 @@ def linear_search(list):
     for i in range(len(list)):
         if num == list[i]:
             print('Number Found at',i)
-        else:
-            print("Number Not Found")
+            break
+    else:
+        print("Number Not Found")
 
 
 # Calling te function
