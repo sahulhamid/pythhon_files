@@ -16,5 +16,4 @@ def linear_search(list):
 
 
 # Calling te function
-linear_search(num_lis)
 
