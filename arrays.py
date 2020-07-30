@@ -11,7 +11,7 @@ for i in range(arr_len):
 
 print(arr)
 
-# asking the user to ener a value
+# asking the user to enter a value
 f = int(input('Enter a value to find: '))
 
 # here i am using while you can use for loop which is much easier than
