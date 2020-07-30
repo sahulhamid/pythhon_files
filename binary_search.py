@@ -52,5 +52,4 @@ def binary_search(list,num):
 if binary_search(list,num):
     print('Number Found at',pos+1)
 else:
-    print("Not Found")
-
+    pass
