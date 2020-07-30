@@ -409,11 +409,17 @@
       <option name="project" value="LOCAL" />
       <updated>1596082059770</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Defining a Function">
+      <created>1596082205252</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1596082205252</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Getting the lenght of the array" />
     <MESSAGE value="Inserting values into array" />
     <MESSAGE value="i have completed my code" />
     <MESSAGE value="Even or Odd" />
@@ -438,13 +444,14 @@
     <MESSAGE value="Completed Linear Search" />
     <MESSAGE value="creating a list" />
     <MESSAGE value="user created the list" />
-    <option name="LAST_COMMIT_MESSAGE" value="user created the list" />
+    <MESSAGE value="Defining a Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Defining a Function" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596082056018">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596082203119">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596082056018" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596082203119" />
     <state width="1345" height="104" key="GridCell.Tab.0.bottom" timestamp="1596082018492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
