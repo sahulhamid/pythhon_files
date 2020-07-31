@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bubble_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -423,11 +424,31 @@
       <option name="project" value="LOCAL" />
       <updated>1596083087669</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Done Binary Search">
+      <created>1596083839080</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1596083839080</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Done Binary Search">
+      <created>1596083912006</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1596083912006</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Done Binary Search">
+      <created>1596084041143</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1596084041143</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="i have completed my code" />
     <MESSAGE value="Even or Odd" />
     <MESSAGE value="opening a function and checking the condition" />
     <MESSAGE value="Calling a function" />
@@ -452,52 +473,53 @@
     <MESSAGE value="user created the list" />
     <MESSAGE value="Defining a Function" />
     <MESSAGE value="created the function logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the function logic" />
+    <MESSAGE value="Done Binary Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Binary Search" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596083084341">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596084039367">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596083084341" />
-    <state width="1345" height="104" key="GridCell.Tab.0.bottom" timestamp="1596083652383">
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596084039367" />
+    <state width="1345" height="104" key="GridCell.Tab.0.bottom" timestamp="1596084121678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596083652383" />
-    <state width="1345" height="104" key="GridCell.Tab.0.center" timestamp="1596083652383">
+    <state width="1345" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596084121678" />
+    <state width="1345" height="104" key="GridCell.Tab.0.center" timestamp="1596084121678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596083652383" />
-    <state width="1345" height="104" key="GridCell.Tab.0.left" timestamp="1596083652383">
+    <state width="1345" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596084121678" />
+    <state width="1345" height="104" key="GridCell.Tab.0.left" timestamp="1596084121678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596083652383" />
-    <state width="1345" height="104" key="GridCell.Tab.0.right" timestamp="1596083652383">
+    <state width="1345" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596084121678" />
+    <state width="1345" height="104" key="GridCell.Tab.0.right" timestamp="1596084121678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596083652383" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1596080538743">
+    <state width="1345" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596084121678" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1596084118036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596080538743" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1596080538743">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596084118036" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1596084118034">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596080538743" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1596080538743">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596084118034" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1596084118034">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596080538743" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1596080538743">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596084118034" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1596084118034">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596080538743" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596084118034" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1596080113633">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596080113633" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596083093379">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596084047849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596083093379" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596084047849" />
   </component>
 </project>

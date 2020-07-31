@@ -1,1 +1,5 @@
-print('Tommorow we willsee bubble sort')
+# Bubble sorting
+
+# creating a List
+lis = [5, 7, 3, 4, 2, 9]
+# we can take list from the user
