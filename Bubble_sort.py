@@ -19,4 +19,7 @@ def bubble_sort(num_list):
 # calling the function
 bubble_sort(lis)
 
+#printing the function
+print(lis)
+
 
