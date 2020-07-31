@@ -12,4 +12,9 @@ def bubble_sort(num_list):
         for j in range(i):
             if num_list[j] > num_list[j+1]:
                 # Swaping my vales
+                temp = num_list[j]
+                num_list[j] = num_list[j+1]
+                num_list[j+1] = temp
+
+
 
