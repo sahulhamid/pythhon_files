@@ -16,5 +16,7 @@ def bubble_sort(num_list):
                 num_list[j] = num_list[j+1]
                 num_list[j+1] = temp
 
+# calling the function
+bubble_sort(lis)
 
 
