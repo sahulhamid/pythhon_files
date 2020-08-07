@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bubble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.Bubble_sort">
+  <component name="RunManager" selected="Python.k">
     <configuration name="Bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythhon_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,6 +94,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="k" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythhon_files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="linear_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythhon_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,34 +136,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythhon_files" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/palindrome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.k" />
         <item itemvalue="Python.Bubble_sort" />
         <item itemvalue="Python.binary_search" />
         <item itemvalue="Python.linear_search" />
         <item itemvalue="Python.arrays" />
-        <item itemvalue="Python.palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -472,12 +472,24 @@
       <option name="project" value="LOCAL" />
       <updated>1596165802687</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Calling the Function">
+      <created>1596165978203</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1596165978203</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Printing the sorted list">
+      <created>1596166117743</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1596166117751</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="getting the input from user defining a function" />
-    <MESSAGE value="codition for the non Prime numbers and using break" />
     <MESSAGE value="using for else" />
     <MESSAGE value="Calling the prime_or_not function" />
     <MESSAGE value="creating an empty array" />
@@ -501,29 +513,31 @@
     <MESSAGE value="defining a Function" />
     <MESSAGE value="swapping values" />
     <MESSAGE value="created function" />
-    <option name="LAST_COMMIT_MESSAGE" value="created function" />
+    <MESSAGE value="Calling the Function" />
+    <MESSAGE value="Printing the sorted list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Printing the sorted list" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596165800416">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596166115359">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596165800416" />
-    <state width="1345" height="104" key="GridCell.Tab.0.bottom" timestamp="1596164839208">
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596166115359" />
+    <state width="1345" height="2" key="GridCell.Tab.0.bottom" timestamp="1596173518498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596164839208" />
-    <state width="1345" height="104" key="GridCell.Tab.0.center" timestamp="1596164839208">
+    <state width="1345" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596173518498" />
+    <state width="1345" height="2" key="GridCell.Tab.0.center" timestamp="1596173518498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596164839208" />
-    <state width="1345" height="104" key="GridCell.Tab.0.left" timestamp="1596164839208">
+    <state width="1345" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596173518498" />
+    <state width="1345" height="2" key="GridCell.Tab.0.left" timestamp="1596173518498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596164839208" />
-    <state width="1345" height="104" key="GridCell.Tab.0.right" timestamp="1596164839208">
+    <state width="1345" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596173518498" />
+    <state width="1345" height="2" key="GridCell.Tab.0.right" timestamp="1596173518498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596164839208" />
+    <state width="1345" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596173518498" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1596084118036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -544,9 +558,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596080113633" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596165815736">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596166123511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596165815736" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596166123511" />
   </component>
 </project>

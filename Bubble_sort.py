@@ -20,6 +20,6 @@ def bubble_sort(num_list):
 bubble_sort(lis)
 
 #printing the function
-print(lis)
+
 
 
