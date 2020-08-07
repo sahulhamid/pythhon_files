@@ -1,5 +1,6 @@
 # Creating a List of words
-words = ['python','java','python','javascript','java','java']
+# you can take your own list or get if from user
+words = ['python','java','python','python','javascript','java','java',]
 
 # Defining a function
 def No_Of_Occur(lis):
@@ -24,9 +25,12 @@ def No_Of_Occur(lis):
 
     # Converting the stored data into set of list because reduce repeatation
     list_st = list(set(st))
+    # iterating a loop
+    for k in list_st:
+        print(k)
 
-
-print(No_Of_Occur(words))
+# Calling a loop
+No_Of_Occur(words)
 
 
 
