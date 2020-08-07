@@ -11,3 +11,8 @@ def No_Of_Occur(lis):
         c=lis.count(i)
         counter+=[c]
 
+    # Getting the maximum value of the cpunnter
+    max_count = max(counter)
+
+    #
+
