@@ -157,13 +157,6 @@
       <option name="presentableId" value="Default" />
       <updated>1595809294469</updated>
     </task>
-    <task id="LOCAL-00004" summary="i have completed my code">
-      <created>1595825353845</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1595825353845</updated>
-    </task>
     <task id="LOCAL-00005" summary="Even or Odd">
       <created>1595825652932</created>
       <option name="number" value="00005" />
@@ -500,11 +493,17 @@
       <option name="project" value="LOCAL" />
       <updated>1596810399450</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="checking the max_counter value with largest count">
+      <created>1596810660187</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1596810660187</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="using a loop" />
     <MESSAGE value="Sorting the given array" />
     <MESSAGE value="printing the max values" />
     <MESSAGE value="Getting word from the user" />
@@ -529,29 +528,30 @@
     <MESSAGE value="getting a list and creating a function" />
     <MESSAGE value="Checking the count of each element in a given list" />
     <MESSAGE value="Getting the maximum value of the counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getting the maximum value of the counter" />
+    <MESSAGE value="checking the max_counter value with largest count" />
+    <option name="LAST_COMMIT_MESSAGE" value="checking the max_counter value with largest count" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596810397249">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596810657712">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596810397249" />
-    <state width="1345" height="191" key="GridCell.Tab.0.bottom" timestamp="1596776464258">
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596810657712" />
+    <state width="1345" height="77" key="GridCell.Tab.0.bottom" timestamp="1596810987436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="191" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596776464258" />
-    <state width="1345" height="191" key="GridCell.Tab.0.center" timestamp="1596776464258">
+    <state width="1345" height="77" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596810987436" />
+    <state width="1345" height="77" key="GridCell.Tab.0.center" timestamp="1596810987436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="191" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596776464258" />
-    <state width="1345" height="191" key="GridCell.Tab.0.left" timestamp="1596776464258">
+    <state width="1345" height="77" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596810987436" />
+    <state width="1345" height="77" key="GridCell.Tab.0.left" timestamp="1596810987436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="191" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596776464258" />
-    <state width="1345" height="191" key="GridCell.Tab.0.right" timestamp="1596776464258">
+    <state width="1345" height="77" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596810987430" />
+    <state width="1345" height="77" key="GridCell.Tab.0.right" timestamp="1596810987436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="191" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596776464258" />
+    <state width="1345" height="77" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596810987436" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1596084118036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -17,10 +17,14 @@ def No_Of_Occur(lis):
     #checking the maximum value with the count using a loop
     # storing in a third variable
     st = []
-    for i in counter:
-        if max_count == counter.count(i):
+    for j in lis:
+        if max_count == lis.count(j):
+            # stored in a third variable
+            st+=[j]
 
 
+
+print(No_Of_Occur(words))
 
 
 
