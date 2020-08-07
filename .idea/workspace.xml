@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/occurence_of_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/occurence_of_word.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,20 +156,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595809294469</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Getting the lenght of the array">
-      <created>1595810233946</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1595810233946</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Inserting values into array">
-      <created>1595810427990</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1595810427990</updated>
     </task>
     <task id="LOCAL-00004" summary="i have completed my code">
       <created>1595825353845</created>
@@ -501,12 +486,24 @@
       <option name="project" value="LOCAL" />
       <updated>1596775760397</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Checking the count of each element in a given list">
+      <created>1596810304168</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1596810304168</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Getting the maximum value of the counter">
+      <created>1596810399450</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1596810399450</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calling the prime_or_not function" />
-    <MESSAGE value="creating an empty array" />
     <MESSAGE value="using a loop" />
     <MESSAGE value="Sorting the given array" />
     <MESSAGE value="printing the max values" />
@@ -530,13 +527,15 @@
     <MESSAGE value="Calling the Function" />
     <MESSAGE value="Printing the sorted list" />
     <MESSAGE value="getting a list and creating a function" />
-    <option name="LAST_COMMIT_MESSAGE" value="getting a list and creating a function" />
+    <MESSAGE value="Checking the count of each element in a given list" />
+    <MESSAGE value="Getting the maximum value of the counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting the maximum value of the counter" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596775758071">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596810397249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596775758071" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596810397249" />
     <state width="1345" height="191" key="GridCell.Tab.0.bottom" timestamp="1596776464258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -573,9 +572,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596080113633" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596775786025">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596810407154">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596775786025" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596810407154" />
   </component>
 </project>
