@@ -22,6 +22,8 @@ def No_Of_Occur(lis):
             # stored in a third variable
             st+=[j]
 
+    # Converting the stored data into set of list because reduce repeatation
+    list_st = list(set(st))
 
 
 print(No_Of_Occur(words))
