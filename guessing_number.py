@@ -11,5 +11,12 @@ num = int(input('Enter a Number: '))
 turns = 12
 
 #Checking the input matches or not
-if num ==
+if num == ran_number:
+    print("Guess is correct")
+else:
+    # Running an infinite loop
+    while num !=ran_number:
+        num = int(input('Enter a Number again!: '))
+
+
 
