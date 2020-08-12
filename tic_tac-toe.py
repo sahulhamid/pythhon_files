@@ -38,7 +38,7 @@ def check_game_over():
 
 # Checking for the row
 def  check_row():
-    global winner
+    global winner,game_going
     # First Row
     row_1 = board[0] == board[1] == board[2] != " - "
     # Second Row
@@ -47,13 +47,20 @@ def  check_row():
     row_3 = board[6] == board[7] == board[8] != " - "
     if row_1:
         winner = board[0]
-        return winner
+        # Ending the while Loop
+        game_going = False
+        return winner,game_going
     elif row_2:
         winner = board[3]
-        return winner
+        # Ending the while Loop
+        game_going = False
+        return winner, game_going
     elif row_3:
         winner = board[6]
-        return winner
+        # Ending the while Loop
+        game_going = False
+        return winner, game_going
+
 
 
 
@@ -73,12 +80,11 @@ def play_game():
         # Change the player
         #flip_palyer()
 
-        # condition for winner or tie
-        if winner == " X " or winner == " O "
-            print(winner, "Won")
-        else:
-            print("Match Tie.")
-
+    # Winner Or Tie Up
+    if winner == " X "  or winner ==" O ":
+        print(winner, "Won.")
+    else:
+        print("Match Tie.")
 
 
 # Calling the Play_Game Function

@@ -158,13 +158,6 @@
       <option name="presentableId" value="Default" />
       <updated>1595809294469</updated>
     </task>
-    <task id="LOCAL-00020" summary="Getting word from the user">
-      <created>1596045147863</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1596045147863</updated>
-    </task>
     <task id="LOCAL-00021" summary="Defining a palindrome function">
       <created>1596045244993</created>
       <option name="number" value="00021" />
@@ -501,11 +494,17 @@
       <option name="project" value="LOCAL" />
       <updated>1597209825510</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Defining the function for the rows">
+      <created>1597210839656</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1597210839656</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Completed Linear Search" />
     <MESSAGE value="creating a list" />
     <MESSAGE value="user created the list" />
     <MESSAGE value="Defining a Function" />
@@ -530,33 +529,34 @@
     <MESSAGE value="Created the Game Board" />
     <MESSAGE value="Defining the Play_Game Function" />
     <MESSAGE value="Defining the  Function for the game_over" />
-    <option name="LAST_COMMIT_MESSAGE" value="Defining the  Function for the game_over" />
+    <MESSAGE value="Defining the function for the rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="Defining the function for the rows" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="0" key="#guessing_number" timestamp="1597005883294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="0" key="#guessing_number/0.0.1366.728@0.0.1366.728" timestamp="1597005883294" />
-    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1597209823426">
+    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1597210837972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597209823426" />
-    <state width="1345" height="45" key="GridCell.Tab.0.bottom" timestamp="1597210390357">
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597210837972" />
+    <state width="1345" height="56" key="GridCell.Tab.0.bottom" timestamp="1597211598114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="45" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597210390357" />
-    <state width="1345" height="45" key="GridCell.Tab.0.center" timestamp="1597210390357">
+    <state width="1345" height="56" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597211598114" />
+    <state width="1345" height="56" key="GridCell.Tab.0.center" timestamp="1597211598114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="45" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597210390357" />
-    <state width="1345" height="45" key="GridCell.Tab.0.left" timestamp="1597210390357">
+    <state width="1345" height="56" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597211598114" />
+    <state width="1345" height="56" key="GridCell.Tab.0.left" timestamp="1597211598114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="45" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597210390357" />
-    <state width="1345" height="45" key="GridCell.Tab.0.right" timestamp="1597210390357">
+    <state width="1345" height="56" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597211598114" />
+    <state width="1345" height="56" key="GridCell.Tab.0.right" timestamp="1597211598114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="45" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597210390357" />
+    <state width="1345" height="56" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597211598114" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1596084118036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
