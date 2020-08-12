@@ -14,6 +14,8 @@ def dispaly_board():
 # Player "X" or "O
 current_palyer=" X "
 
+# Winner For Now
+winner =None
 
 # Boolean Value for the Game flow
 game_going =True
@@ -30,9 +32,29 @@ def check_game_over():
     # Checking for the row
     check_row()
     # Checking for the column
-    check_column()
+    #check_column()
     # Checking for the diagonals
-    check_diagonal()
+    #check_diagonal()
+
+# Checking for the row
+def  check_row():
+    global winner
+    # First Row
+    row_1 = board[0] == board[1] == board[2] != " - "
+    # Second Row
+    row_2 = board[3] == board[4] == board[5] != " - "
+    # Third Row
+    row_3 = board[6] == board[7] == board[8] != " - "
+    if row_1:
+        winner = board[0]
+        return winner
+    elif row_2:
+        winner = board[3]
+        return winner
+    elif row_3:
+        winner = board[6]
+        return winner
+
 
 
 # Defining a Function for Playing game
@@ -50,6 +72,13 @@ def play_game():
 
         # Change the player
         #flip_palyer()
+
+        # condition for winner or tie
+        if winner == " X " or winner == " O "
+            print(winner, "Won")
+        else:
+            print("Match Tie.")
+
 
 
 # Calling the Play_Game Function
