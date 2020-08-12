@@ -12,7 +12,7 @@ def dispaly_board():
     print(board[6] + "|" + board[7] + "|" + board[8])
 
 # Player "X" or "O
-current_palyer=" X "
+current_player=" X "
 
 # Winner For Now
 winner =None
@@ -24,7 +24,7 @@ game_going =True
 def handle_game():
     position = int(input("Enter a Number from 1-9: "))-1
 
-    board[position] = current_palyer
+    board[position] = current_player
 
     dispaly_board()
 
@@ -37,6 +37,13 @@ def check_game_over():
 
     # Checking for the diagonals
     check_diagonal()
+# Change the player
+def flip_palyer():
+    global current_player
+    if current_player == " X " :
+        current_player = " O "
+    elif current_player == " O ":
+        current_player = " X "
 
 # Checking for the row
 def  check_row():
@@ -116,13 +123,14 @@ def play_game():
 
     while game_going:
         #Handling the game turn
+        print(current_player,"Turn")
         handle_game()
 
         # Checking the winner or ending the game by tie up the match
         check_game_over()
 
         # Change the player
-        #flip_palyer()
+        flip_palyer()
 
     # Winner Or Tie Up
     if winner == " X "  or winner ==" O ":

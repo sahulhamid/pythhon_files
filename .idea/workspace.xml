@@ -158,20 +158,6 @@
       <option name="presentableId" value="Default" />
       <updated>1595809294469</updated>
     </task>
-    <task id="LOCAL-00022" summary="Condition for palindrome">
-      <created>1596045436729</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1596045436729</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Calling the Palindrome function">
-      <created>1596045515525</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1596045515525</updated>
-    </task>
     <task id="LOCAL-00024" summary="Calling the Palindrome function">
       <created>1596069827334</created>
       <option name="number" value="00024" />
@@ -501,12 +487,24 @@
       <option name="project" value="LOCAL" />
       <updated>1597211907039</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary=" Defining the function for column wins">
+      <created>1597212580946</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1597212580946</updated>
+    </task>
+    <task id="LOCAL-00072" summary=" Defining the function for diagonal wins">
+      <created>1597212627085</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1597212627085</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="user created the list" />
-    <MESSAGE value="Defining a Function" />
     <MESSAGE value="created the function logic" />
     <MESSAGE value="Done Binary Search" />
     <MESSAGE value="defining a Function" />
@@ -530,33 +528,35 @@
     <MESSAGE value="Defining the  Function for the game_over" />
     <MESSAGE value="Defining the function for the rows" />
     <MESSAGE value=" Defining the function for row wins" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Defining the function for row wins" />
+    <MESSAGE value=" Defining the function for column wins" />
+    <MESSAGE value=" Defining the function for diagonal wins" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Defining the function for diagonal wins" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="0" key="#guessing_number" timestamp="1597005883294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="0" key="#guessing_number/0.0.1366.728@0.0.1366.728" timestamp="1597005883294" />
-    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1597211904688">
+    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1597212625142">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597211904688" />
-    <state width="1345" height="12" key="GridCell.Tab.0.bottom" timestamp="1597212487517">
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597212625142" />
+    <state width="1345" height="86" key="GridCell.Tab.0.bottom" timestamp="1597213066233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="12" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597212487517" />
-    <state width="1345" height="12" key="GridCell.Tab.0.center" timestamp="1597212487517">
+    <state width="1345" height="86" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597213066233" />
+    <state width="1345" height="86" key="GridCell.Tab.0.center" timestamp="1597213066233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="12" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597212487517" />
-    <state width="1345" height="12" key="GridCell.Tab.0.left" timestamp="1597212487517">
+    <state width="1345" height="86" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597213066233" />
+    <state width="1345" height="86" key="GridCell.Tab.0.left" timestamp="1597213066233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="12" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597212487517" />
-    <state width="1345" height="12" key="GridCell.Tab.0.right" timestamp="1597212487517">
+    <state width="1345" height="86" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597213066233" />
+    <state width="1345" height="86" key="GridCell.Tab.0.right" timestamp="1597213066233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="12" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597212487517" />
+    <state width="1345" height="86" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597213066233" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1596084118036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -577,9 +577,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597208166120" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597211914556">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597212631427">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597211914556" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597212631427" />
   </component>
 </project>
