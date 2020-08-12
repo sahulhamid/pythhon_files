@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/guessing_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/guessing_number.py" afterDir="false" />
-    </list>
+    <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,13 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595809294469</updated>
-    </task>
-    <task id="LOCAL-00014" summary="creating an empty array">
-      <created>1595977009791</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1595977009791</updated>
     </task>
     <task id="LOCAL-00015" summary="using a loop">
       <created>1595977148915</created>
@@ -500,11 +491,17 @@
       <option name="project" value="LOCAL" />
       <updated>1597005965759</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Completed">
+      <created>1597006442276</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1597006442276</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Small changes" />
     <MESSAGE value="Getting maximum value" />
     <MESSAGE value="Defining the linear search method" />
     <MESSAGE value="Restarting" />
@@ -529,33 +526,34 @@
     <MESSAGE value="Getting a number from user" />
     <MESSAGE value="no of turns and condition" />
     <MESSAGE value="Running an infinite loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Running an infinite loop" />
+    <MESSAGE value="Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="0" key="#guessing_number" timestamp="1597005883294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="0" key="#guessing_number/0.0.1366.728@0.0.1366.728" timestamp="1597005883294" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1597005962884">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1597006440104">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597005962884" />
-    <state width="1345" height="121" key="GridCell.Tab.0.bottom" timestamp="1597006405132">
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597006440104" />
+    <state width="1345" height="121" key="GridCell.Tab.0.bottom" timestamp="1597006483432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597006405132" />
-    <state width="1345" height="121" key="GridCell.Tab.0.center" timestamp="1597006405132">
+    <state width="1345" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597006483432" />
+    <state width="1345" height="121" key="GridCell.Tab.0.center" timestamp="1597006483432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="121" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597006405132" />
-    <state width="1345" height="121" key="GridCell.Tab.0.left" timestamp="1597006405132">
+    <state width="1345" height="121" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597006483432" />
+    <state width="1345" height="121" key="GridCell.Tab.0.left" timestamp="1597006483432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="121" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597006405132" />
-    <state width="1345" height="121" key="GridCell.Tab.0.right" timestamp="1597006405132">
+    <state width="1345" height="121" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597006483432" />
+    <state width="1345" height="121" key="GridCell.Tab.0.right" timestamp="1597006483432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597006405132" />
+    <state width="1345" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597006483432" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1596084118036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -576,9 +574,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596080113633" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597005974159">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597006450293">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597005974159" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597006450293" />
   </component>
 </project>
