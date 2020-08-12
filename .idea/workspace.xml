@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tic_tac-toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/tic_tac-toe.py" afterDir="false" />
-    </list>
+    <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,13 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595809294469</updated>
-    </task>
-    <task id="LOCAL-00018" summary="printing the max values">
-      <created>1596044868012</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1596044868012</updated>
     </task>
     <task id="LOCAL-00019" summary="printing the max values">
       <created>1596044957719</created>
@@ -501,11 +491,17 @@
       <option name="project" value="LOCAL" />
       <updated>1597208525971</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Defining the  Function for the game_over">
+      <created>1597209756799</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1597209756799</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Restarting" />
     <MESSAGE value="Completed Linear Search" />
     <MESSAGE value="creating a list" />
     <MESSAGE value="user created the list" />
@@ -530,17 +526,18 @@
     <MESSAGE value="Completed" />
     <MESSAGE value="Created the Game Board" />
     <MESSAGE value="Defining the Play_Game Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Defining the Play_Game Function" />
+    <MESSAGE value="Defining the  Function for the game_over" />
+    <option name="LAST_COMMIT_MESSAGE" value="Defining the  Function for the game_over" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="0" key="#guessing_number" timestamp="1597005883294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="0" key="#guessing_number/0.0.1366.728@0.0.1366.728" timestamp="1597005883294" />
-    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1597208520392">
+    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1597209754113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597208520392" />
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597209754113" />
     <state width="1345" height="287" key="GridCell.Tab.0.bottom" timestamp="1597209105322">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
