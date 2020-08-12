@@ -88,7 +88,24 @@ def  check_column():
         game_going = False
         return winner, game_going
 
+# Checking for the diagonals
+def  check_diagonal():
+    global winner, game_going
+    # Diagonal 1
+    dia_1 = board[0] == board[4] == board[8] != " - "
+    # Diagonal 2
+    dia_2 = board[2] == board[4] == board[6] != " - "
 
+    if dia_1:
+        winner = board[0]
+        # Ending the while Loop
+        game_going = False
+        return winner, game_going
+    elif dia_2:
+        winner = board[2]
+        # Ending the while Loop
+        game_going = False
+        return winner, game_going
 
 
 # Defining a Function for Playing game
