@@ -31,10 +31,12 @@ def handle_game():
 def check_game_over():
     # Checking for the row
     check_row()
+
     # Checking for the column
-    #check_column()
+    check_column()
+
     # Checking for the diagonals
-    #check_diagonal()
+    check_diagonal()
 
 # Checking for the row
 def  check_row():
@@ -61,6 +63,31 @@ def  check_row():
         game_going = False
         return winner, game_going
 
+# Checking for the column
+def  check_column():
+    global winner, game_going
+    # First Column
+    col_1 = board[0] == board[3] == board[6] != " - "
+    # Second Column
+    col_2 = board[1] == board[4] == board[7] != " - "
+    # Third Column
+    col_3 = board[2] == board[5] == board[8] != " - "
+    if col_1:
+        winner = board[0]
+        # Ending the while Loop
+        game_going = False
+        return winner, game_going
+    elif col_2:
+        winner = board[1]
+        # Ending the while Loop
+        game_going = False
+        return winner, game_going
+    elif col_3:
+        winner = board[2]
+        # Ending the while Loop
+        game_going = False
+        return winner, game_going
+
 
 
 
@@ -83,7 +110,7 @@ def play_game():
     # Winner Or Tie Up
     if winner == " X "  or winner ==" O ":
         print(winner, "Won.")
-    else:
+    elif winner == None:
         print("Match Tie.")
 
 
