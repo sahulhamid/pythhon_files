@@ -37,6 +37,10 @@ def check_game_over():
 
     # Checking for the diagonals
     check_diagonal()
+
+    # Check for tie
+    check_tie()
+
 # Change the player
 def flip_palyer():
     global current_player
@@ -111,6 +115,14 @@ def  check_diagonal():
     elif dia_2:
         winner = board[2]
         # Ending the while Loop
+        game_going = False
+        return winner, game_going
+
+# Checking for tie
+def check_tie():
+    global winner, board, game_going
+    if " - " not in board:
+        winner = None
         game_going = False
         return winner, game_going
 

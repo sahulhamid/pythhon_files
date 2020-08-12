@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c32917b7-2fdf-44de-a401-1919808d7ab2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tic_tac-toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/tic_tac-toe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,13 +156,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595809294469</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Calling the Palindrome function">
-      <created>1596069827334</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1596069827334</updated>
     </task>
     <task id="LOCAL-00025" summary="Calling the Palindrome function">
       <created>1596069881285</created>
@@ -501,11 +493,17 @@
       <option name="project" value="LOCAL" />
       <updated>1597212627085</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Fliping the X and O">
+      <created>1597213108553</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1597213108563</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created the function logic" />
     <MESSAGE value="Done Binary Search" />
     <MESSAGE value="defining a Function" />
     <MESSAGE value="swapping values" />
@@ -530,33 +528,34 @@
     <MESSAGE value=" Defining the function for row wins" />
     <MESSAGE value=" Defining the function for column wins" />
     <MESSAGE value=" Defining the function for diagonal wins" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Defining the function for diagonal wins" />
+    <MESSAGE value="Fliping the X and O" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fliping the X and O" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="0" key="#guessing_number" timestamp="1597005883294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="0" key="#guessing_number/0.0.1366.728@0.0.1366.728" timestamp="1597005883294" />
-    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1597212625142">
+    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1597213106473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597212625142" />
-    <state width="1345" height="86" key="GridCell.Tab.0.bottom" timestamp="1597213066233">
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597213106473" />
+    <state width="1345" height="46" key="GridCell.Tab.0.bottom" timestamp="1597214004396">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="86" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597213066233" />
-    <state width="1345" height="86" key="GridCell.Tab.0.center" timestamp="1597213066233">
+    <state width="1345" height="46" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597214004396" />
+    <state width="1345" height="46" key="GridCell.Tab.0.center" timestamp="1597214004396">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="86" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597213066233" />
-    <state width="1345" height="86" key="GridCell.Tab.0.left" timestamp="1597213066233">
+    <state width="1345" height="46" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597214004396" />
+    <state width="1345" height="46" key="GridCell.Tab.0.left" timestamp="1597214004396">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="86" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597213066233" />
-    <state width="1345" height="86" key="GridCell.Tab.0.right" timestamp="1597213066233">
+    <state width="1345" height="46" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597214004396" />
+    <state width="1345" height="46" key="GridCell.Tab.0.right" timestamp="1597214004396">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="86" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597213066233" />
+    <state width="1345" height="46" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597214004396" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1596084118036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -577,9 +576,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597208166120" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597212631427">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597213136515">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597212631427" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597213136515" />
+    <state x="390" y="152" key="git4idea.merge.GitPullDialog" timestamp="1597213130309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1597213130309" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597213295103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597213295103" />
   </component>
 </project>
